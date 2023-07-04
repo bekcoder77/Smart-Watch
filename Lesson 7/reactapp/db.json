@@ -1,0 +1,77 @@
+{
+  "products":[
+    {
+      "img": "./assets/g1.png",
+      "company": "Sony",
+      "name": "4K TV Game Mini Arcade Rocker Console 32GB/64GB",
+      "price": 29.80
+    },
+    {
+      "img": "./assets/g2.png",
+      "company": "Sony",
+      "name": "4K TV Game Mini Arcade Rocker Console 32GB/64GB",
+      "price": 29.80
+    },
+    {
+      "img": "./assets/g3.png",
+      "company": "Sony",
+      "name": "4K TV Game Mini Arcade Rocker Console 32GB/64GB",
+      "price": 29.80
+    },
+    {
+      "img": "./assets/g4.png",
+      "company": "Sony",
+      "name": "4K TV Game Mini Arcade Rocker Console 32GB/64GB",
+      "price": 29.80
+    },
+    {
+      "img": "./assets/g5.png",
+      "company": "Sony",
+      "name": "4K TV Game Mini Arcade Rocker Console 32GB/64GB",
+      "price": 29.80
+    },
+    {
+      "img": "./assets/g6.png",
+      "company": "Sony",
+      "name": "4K TV Game Mini Arcade Rocker Console 32GB/64GB",
+      "price": 29.80
+    },
+    {
+      "img": "./assets/g7.png",
+      "company": "Sony",
+      "name": "4K TV Game Mini Arcade Rocker Console 32GB/64GB",
+      "price": 29.80
+    },
+    {
+      "img": "./assets/g8.png",
+      "company": "Sony",
+      "name": "4K TV Game Mini Arcade Rocker Console 32GB/64GB",
+      "price": 29.80
+    },
+    {
+      "img": "./assets/g9.png",
+      "company": "Sony",
+      "name": "4K TV Game Mini Arcade Rocker Console 32GB/64GB",
+      "price": 29.80
+    },
+    {
+      "img": "./assets/g10.png",
+      "company": "Sony",
+      "name": "4K TV Game Mini Arcade Rocker Console 32GB/64GB",
+      "price": 29.80
+    },
+    {
+      "img": "./assets/g11.png",
+      "company": "Sony",
+      "name": "4K TV Game Mini Arcade Rocker Console 32GB/64GB",
+      "price": 29.80
+    },
+    {
+      "img": "./assets/g12.png",
+      "company": "Sony",
+      "name": "4K TV Game Mini Arcade Rocker Console 32GB/64GB",
+      "price": 29.80
+    }
+
+  ]
+}
