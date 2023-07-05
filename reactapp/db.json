@@ -1,0 +1,102 @@
+{
+  "products":[
+    {
+      "img": "./assets/g1.png",
+      "company": "Sony",
+      "name": "4K TV Game Mini Arcade Rocker Console 32GB/64GB",
+      "price": 39.87,
+       "raiting":"★★★☆"
+     
+    },
+    {
+      "img": "./assets/g2.png",
+      "company": "Apple",
+      "name": "4K TV Game Mini Arcade Rocker Console 32GB/64GB",
+      "price": 27.86,
+      "raiting":"★★★☆"
+    },
+    {
+      "img": "./assets/g3.png",
+      "company": "Google",
+      "name": "4K TV Game Mini Arcade Rocker Console 32GB/64GB",
+      "price": 25.24,
+      "sale": -15,
+       "raiting":"★★★☆"
+    },
+    {
+      "img": "./assets/g4.png",
+      "company": "Toshiba",
+      "name": "4K TV Game Mini Arcade Rocker Console 32GB/64GB",
+      "price": 49.59,
+       "raiting":"★★★☆",
+      "sale": -15
+
+    },
+    {
+      "img": "./assets/g5.png",
+      "company": "BassX",
+      "name": "4K TV Game Mini Arcade Rocker Console 32GB/64GB",
+      "price": 35.82,
+       "raiting":"★★★☆",
+      "sale": -15
+
+    },
+    {
+      "img": "./assets/g6.png",
+      "company": "Koniks",
+      "name": "4K TV Game Mini Arcade Rocker Console 32GB/64GB",
+      "price": 46.84,
+       "raiting":"★★★☆"
+
+    },
+    {
+      "img": "./assets/g7.png",
+      "company": "Apple",
+      "name": "4K TV Game Mini Arcade Rocker Console 32GB/64GB",
+      "price": 52.81,
+       "raiting":"★★★☆"
+
+    },
+    {
+      "img": "./assets/g8.png",
+      "company": "Toshiba",
+      "name": "4K TV Game Mini Arcade Rocker Console 32GB/64GB",
+      "price": 31.26,
+       "raiting":"★★★☆"
+   
+
+    },
+    {
+      "img": "./assets/g9.png",
+      "company": "Google",
+      "name": "4K TV Game Mini Arcade Rocker Console 32GB/64GB",
+      "price": 41.85,
+       "raiting":"★★★☆",
+       "sale": -15
+    },
+    {
+      "img": "./assets/g10.png",
+      "company": "Sony",
+      "name": "4K TV Game Mini Arcade Rocker Console 32GB/64GB",
+      "price": 51.83,
+       "raiting":"★★★☆",
+      "sale": -15
+
+    },
+    {
+      "img": "./assets/g11.png",
+      "company": "Apple",
+      "name": "4K TV Game Mini Arcade Rocker Console 32GB/64GB",
+      "price": 36.52,
+       "raiting":"★★★☆"
+    },
+    {
+      "img": "./assets/g12.png",
+      "company": "Toshiba",
+      "name": "4K TV Game Mini Arcade Rocker Console 32GB/64GB",
+      "price": 45.81,
+      "raiting":"★★★☆"
+    }
+
+  ]
+}
